@@ -3,7 +3,6 @@
 <h1 align="center">
  Laravel Vue App - Usando Jetstream
 </h1>
-<hr />
 Proyecto del Curso de Single Page Applications en Laravel con Inertia y Vue.js para probar hacer una webapp con Vue y Laravel.
 
 ### Pre-requisitos 📋
